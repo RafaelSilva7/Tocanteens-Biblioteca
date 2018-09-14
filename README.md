@@ -5,7 +5,7 @@ Nome Equipe: Tocanteens <br/>
 Faculdade: Universidade Federal do Tocantins - UFT, Campos de Palmas-TO <br/>
 <br/>
 Membros: <br/>
-André Luis <br/>
+André Luiz - andrefreitas@uft.edu.br <br/>
 David <br/>
 Rafael da Costa Silva - rafaelcs@uft.edu.br <br/>
 Thiago Silva Pereira <br/>
